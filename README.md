@@ -1,276 +1,255 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🗡️  MOIZ KASEER — THE BLACK SWORDSMAN OF CODE  🗡️               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 
+    ╔═══════════════════════════════════════════════╗
+    ║  𝕸𝖔𝖎𝖟 𝕶𝖆𝖘𝖊𝖊𝖗 — GitHub Profile README           ║
+    ║  Theme: Berserk / Dark Manga Aesthetic        ║
+    ╚═══════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8B0000&height=200&text=𝕸𝖔𝖎𝖟%20𝕶𝖆𝖘𝖊𝖊𝖗&fontSize=50&fontColor=8B0000&animation=fadeIn&stroke=8B0000&strokeWidth=2" width="100%"/>
+<!-- ▀▀▀▀▀▀▀ MANGA TITLE PANEL ▀▀▀▀▀▀▀ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=1&section=header" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=700&size=45&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=700&height=70&lines=MOIZ+KASEER" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&duration=3000&pause=500&color=808080&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%E2%9A%94+The+Struggler+%E2%80%A2+Web+Developer+%E2%80%A2+Code+Berserker+%E2%9A%94;%F0%9F%90%8D+Python+Explorer+%E2%80%A2+AI%2FML+Enthusiast;%F0%9F%92%80+Putting+my+grasses+on...+nothing+will+be+wrong" alt="Titles" />
+
+<br>
+
+```
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║                                                                     ║
+ ║   "In this world, is the destiny of mankind controlled by some      ║
+ ║    transcendental entity or law? Is it like the hand of God          ║
+ ║    hovering above? At least it is true that man has no control,      ║
+ ║    even over his own will."                              — Berserk   ║
+ ║                                                                     ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<!-- ═══════════════ CHARACTER CARD ═══════════════ -->
+<!-- ▀▀▀▀▀▀▀ MANGA PANEL: ABOUT ▀▀▀▀▀▀▀ -->
 
-<table align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table>
 <tr>
-<td width="300" align="center">
+<td valign="top" width="55%">
 
-<br>
+## 「  CHAPTER I — THE STRUGGLER  」
 
-```diff
-@@  ╔══════════════════════╗  @@
-@@  ║   CHARACTER  SHEET   ║  @@
-@@  ╠══════════════════════╣  @@
-@@  ║  Name: Moiz Kaseer   ║  @@
-@@  ║  Class: Web Developer ║  @@
-@@  ║  Title: The Struggler ║  @@
-@@  ║  Rank: Apprentice     ║  @@
-@@  ╚══════════════════════╝  @@
+```yaml
+name: "Moiz Kaseer"
+class: "Web Developer"
+title: "The Black Swordsman of Code"
+alignment: "Chaotic Good"
 ```
 
+Like **Guts** swinging the Dragonslayer through an eclipse of bugs,
+I fight through every line of code — **relentless and unyielding.**
+
+```
+ CURRENT ARC
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ⚔️  Building → Web Applications
+ 🧪  Training → NumPy & Pandas
+ 🎯  Pursuing → AI & Machine Learning
+ 💀  Anime    → Berserk (the GOAT)
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</td>
+<td valign="top" width="45%">
+
+## 「  STATUS PANEL  」
+
+```
+  ╭─────────────────────────╮
+  │     ⚔️ SKILL TREE ⚔️     │
+  ╰─────────────────────────╯
+
+  WEB DEV     ▰▰▰▰▰▰▰▰▱▱  80%
+  PYTHON      ▰▰▰▰▰▰▱▱▱▱  60%
+  DATA SCI    ▰▰▰▰▱▱▱▱▱▱  40%
+  AI / ML     ▰▰▰▱▱▱▱▱▱▱  30%
+  GIT         ▰▰▰▰▰▰▰▱▱▱  70%
+
+  ╭─────────────────────────╮
+  │    💀 TRAITS 💀          │
+  ╰─────────────────────────╯
+
+  ◈ Persistent  ◈ Curious
+  ◈ Night Owl   ◈ Anime Nerd
+  ◈ Self-taught ◈ Ambitious
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ▀▀▀▀▀▀▀ MANGA PANEL: ARSENAL ▀▀▀▀▀▀▀ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 「  CHAPTER II — THE ARSENAL  」
+
+*Weapons forged in the fires of debugging*
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizkaseer&layout=donut&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=c0c0c0&border_color=2a0000&hide_border=false&ring_color=8B0000" width="260"/>
+### ⚔️ Primary Weapons
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Primary Skills"/>
+</a>
+
+### 🛡️ Equipment
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
+</a>
+
+### 📖 Currently Training
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Learning"/>
+</a>
+
+### 🔮 Future Quests
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Future"/>
+</a>
+
+</div>
+
+<!-- ▀▀▀▀▀▀▀ MANGA PANEL: BATTLE STATS ▀▀▀▀▀▀▀ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 「  CHAPTER III — BATTLE RECORDS  」
+
+*Every commit is a swing of the Dragonslayer*
+
+<br>
+
+<a href="https://github.com/moizkaseer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moizkaseer&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d0d0d&title_color=C41E3A&text_color=c0c0c0&icon_color=C41E3A&border_color=C41E3A&ring_color=C41E3A" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/moizkaseer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizkaseer&layout=compact&theme=radical&bg_color=0d0d0d&title_color=C41E3A&text_color=c0c0c0&border_color=C41E3A" />
+</a>
 
 <br><br>
 
-</td>
-<td width="500">
-
-<br>
-
-### ⚔️ *"In this world, is the destiny of mankind controlled by some transcendental entity or law?"*
-
-<br>
-
-> **`🔥 CURRENT QUEST:`** Building Web Applications  
-> **`🧪 TRAINING ARC:`** Python — NumPy & Pandas  
-> **`🎯 NEXT CHAPTER:`** AI & Machine Learning  
-> **`🗡️ WEAPON:`** Code — The Dragonslayer of Logic  
-> **`💀 BRAND:`** Berserk Fanatic (Profile Pic Confirms)
-
-<br>
-
-```
-      ⚔️ SKILL TREE ⚔️
-      ─────────────────
-      
-  ┌── WEB DEV ─────── ████████░░ 80%
-  ├── PYTHON ─────────  ██████░░░░ 60%
-  ├── AI/ML ──────────  ███░░░░░░░ 30%
-  ├── DATA SCIENCE ─── ████░░░░░░ 40%
-  └── GIT MASTERY ──── ███████░░░ 70%
-```
-
-<br>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════ INVENTORY / TECH STACK ═══════════════ -->
-
-<div align="center">
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    ⚔️  INVENTORY  ⚔️                        ║
-║          — Weapons forged in the fires of debugging —       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-<br><sub>🗡️ Main Weapon</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-<br><sub>⚡ Side Arm</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML5</strong>
-<br><sub>🛡️ Shield</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS3</strong>
-<br><sub>✨ Enchantment</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-<br><sub>📜 Spell Book</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-<br><sub>⚒️ Forge</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
-<br><strong>NumPy</strong>
-<br><sub>📖 Currently Studying</sub>
-</td>
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-<br><strong>Pandas</strong>
-<br><sub>📖 Currently Studying</sub>
-</td>
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br><strong>TensorFlow</strong>
-<br><sub>🔮 Future Quest</sub>
-</td>
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
-<br><strong>Scikit-Learn</strong>
-<br><sub>🔮 Future Quest</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════ BATTLE STATS ═══════════════ -->
-
-<br>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   💀  BATTLE STATS  💀                      ║
-║            — Every commit is a swing of the sword —         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
 <a href="https://github.com/moizkaseer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moizkaseer&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=c0c0c0&icon_color=8B0000&border_color=2a0000&ring_color=8B0000&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=moizkaseer&theme=dark&background=0d0d0d&ring=C41E3A&fire=ff4444&currStreakLabel=C41E3A&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666&border=C41E3A" width="60%" />
 </a>
+
+<br><br>
+
+<!-- TROPHIES -->
 <a href="https://github.com/moizkaseer">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=moizkaseer&theme=dark&background=0d0d0d&ring=8B0000&fire=ff4444&currStreakLabel=8B0000&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666&border=2a0000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=5" width="85%" />
 </a>
 
 </div>
 
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
+<!-- ▀▀▀▀▀▀▀ MANGA PANEL: ACTIVITY GRAPH ▀▀▀▀▀▀▀ -->
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizkaseer&theme=high-contrast&bg_color=0d0d0d&color=8B0000&line=ff4444&point=ffffff&area_color=8B0000&area=true&hide_border=true&custom_title=⚔️%20Attack%20Log%20—%20Contribution%20History%20⚔️" width="95%"/>
+## 「  CHAPTER IV — ATTACK LOG  」
+
+<br>
+
+<a href="https://github.com/moizkaseer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizkaseer&bg_color=0d0d0d&color=C41E3A&line=ff4444&point=ffffff&area_color=C41E3A&area=true&hide_border=true&custom_title=⚔️%20Contribution%20History%20⚔️" width="95%"/>
+</a>
 
 </div>
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ▀▀▀▀▀▀▀ MANGA PANEL: SNAKE ▀▀▀▀▀▀▀ -->
 
-<br>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   🏆  WAR TROPHIES  🏆                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=moizkaseer&theme=darkhub&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10&title_color=8B0000" width="90%"/>
-
-</div>
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║             🐍  THE SERPENT DEVOURS ALL  🐍                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 「  THE SERPENT DEVOURS ALL  」
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ▀▀▀▀▀▀▀ CONNECT ▀▀▀▀▀▀▀ -->
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║              🤝  JOIN THE BAND OF THE HAWK  🤝              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 「  JOIN THE BAND OF THE HAWK  」
 
 <br>
 
 <a href="https://github.com/moizkaseer">
-  <img src="https://img.shields.io/badge/⚔️_GitHub-moizkaseer-0d0d0d?style=for-the-badge&logo=github&logoColor=8B0000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/GitHub-moizkaseer-0d0d0d?style=for-the-badge&logo=github&logoColor=C41E3A" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/moizkaseer">
-  <img src="https://img.shields.io/badge/🛡️_LinkedIn-moizkaseer-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8B0000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C41E3A" />
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=moizkaseer&color=8B0000&style=flat-square&label=⚔️+PROFILE+VISITORS)
-
-</div>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
+![](https://komarev.com/ghpvc/?username=moizkaseer&color=C41E3A&style=flat-square&label=⚔️+Visitors)
 
 <br>
 
-<div align="center">
-
 ```
-                        ⚔️
-                       /   \
-                      /     \
-        ─────────────/───────\─────────────
-        
-   "Even if we painstakingly piece together
-    something lost, it doesn't mean things
-    will ever go back to how they were."
-                                 — Guts
-                                 
-        ─────────────────────────────────── 
-                  
-           ⭐ Put your grasses on ⭐
-          Nothing will be wrong ♪♫
+         ⚔
+        ╱ ╲
+       ╱   ╲
+      ╱     ╲
+     ╱       ╲
+    ╱─────────╲
+         ┃
+         ┃
+    ─────┸─────
+         
+  "My love, you are my reason
+   to keep on struggling."
+                    — Guts
+
+
+  ⭐ Put your grasses on ⭐
+    Nothing will be wrong
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:1a0000,100:8B0000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:C41E3A&height=100&section=footer" width="100%"/>
+
+<!--- 
+  ╔═══════════════════════════════════════════════╗
+  ║  NOTE: For the snake animation to work,       ║
+  ║  set up a GitHub Action in your repo.         ║
+  ║  See: github.com/Platane/snk                  ║
+  ╚═══════════════════════════════════════════════╝
+--->
