@@ -177,20 +177,26 @@ anime:    "Berserk (the GOAT 💀)"
 
 <div align="center">
 
-### 「 CHAPTER IV — WAR TROPHIES 」
+### 「 CHAPTER IV — QUEST LOG 」
 
-<br>
-
-<!-- Using volunteer-hosted mirror for reliability -->
-<a href="https://github.com/moizkaseer">
-  <img src="https://github-profile-trophy.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=5" width="85%" />
-</a>
-
-<!-- If trophies don't load, try these backup mirrors:
-  https://github-trophies.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
-  https://github-profile-trophy-liard-delta.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
-  https://github-profile-trophy-winning.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
--->
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║                   ⚔️ QUEST LOG ⚔️                     ║
+ ╠═══════════════════════════════════════════════════════╣
+ ║                                                       ║
+ ║  [✅] Learn HTML, CSS & JavaScript                    ║
+ ║  [✅] Start building web applications                 ║
+ ║  [✅] Begin Python journey                            ║
+ ║  [🔄] Master NumPy & Pandas                           ║
+ ║  [🔄] Build portfolio projects                        ║
+ ║  [⬜] Learn Machine Learning fundamentals             ║
+ ║  [⬜] Build first AI project                          ║
+ ║  [⬜] Contribute to open source                       ║
+ ║  [⬜] Land a developer role                           ║
+ ║                                                       ║
+ ║  ✅ = Complete  🔄 = In Progress  ⬜ = Upcoming       ║
+ ╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
