@@ -147,20 +147,26 @@ anime:    "Berserk (the GOAT 💀)"
 
 <br>
 
-<!-- Using alternative Vercel instance for reliability -->
+<!-- Streak Stats (this one works!) -->
 <a href="https://github.com/moizkaseer">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moizkaseer&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=C41E3A&text_color=c0c0c0&icon_color=C41E3A&border_color=C41E3A" />
-</a>
-&nbsp;
-<a href="https://github.com/moizkaseer">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moizkaseer&layout=compact&bg_color=0d0d0d&title_color=C41E3A&text_color=c0c0c0&border_color=C41E3A" />
+  <img src="https://streak-stats.demolab.com/?user=moizkaseer&background=0d0d0d&ring=C41E3A&fire=ff4444&currStreakLabel=C41E3A&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666&border=C41E3A" width="55%" />
 </a>
 
 <br><br>
 
-<!-- Streak Stats -->
+<!-- Profile Summary Cards (generated via GitHub Actions — always reliable) -->
 <a href="https://github.com/moizkaseer">
-  <img src="https://streak-stats.demolab.com/?user=moizkaseer&background=0d0d0d&ring=C41E3A&fire=ff4444&currStreakLabel=C41E3A&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666&border=C41E3A" width="55%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizkaseer&theme=radical" width="70%" />
+</a>
+
+<br>
+
+<a href="https://github.com/moizkaseer">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moizkaseer&theme=radical" height="160em" />
+</a>
+&nbsp;
+<a href="https://github.com/moizkaseer">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=moizkaseer&theme=radical" height="160em" />
 </a>
 
 </div>
@@ -177,8 +183,14 @@ anime:    "Berserk (the GOAT 💀)"
 
 <!-- Using volunteer-hosted mirror for reliability -->
 <a href="https://github.com/moizkaseer">
-  <img src="https://github-trophies.vercel.app/?username=moizkaseer&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=5" width="85%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=5" width="85%" />
 </a>
+
+<!-- If trophies don't load, try these backup mirrors:
+  https://github-trophies.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
+  https://github-profile-trophy-liard-delta.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
+  https://github-profile-trophy-winning.vercel.app/?username=moizkaseer&theme=radical&no-bg=true&no-frame=true&column=7
+-->
 
 </div>
 
