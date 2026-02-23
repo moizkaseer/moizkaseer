@@ -248,7 +248,7 @@ anime:    "Berserk (the GOAT 💀)"
   <img src="https://img.shields.io/badge/GitHub-moizkaseer-0d0d0d?style=for-the-badge&logo=github&logoColor=C41E3A" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/moizkaseer">
+<a href="https://www.linkedin.com/in/moiz-ali-08494a2b1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C41E3A" />
 </a>
 
